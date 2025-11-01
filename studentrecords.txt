@@ -1,0 +1,10 @@
+1234 Samir Ahmed samir@gmail.com CCSE-2201 80.00
+101 John Doe john.doe@example.com CSE101 85.5
+102 Alice Smith alice.smith@example.com CSE101 72
+103 Bob Johnson bob.johnson@example.com CSE101 60
+104 Sumon Ahmed sumon@gmail.com CSE101 85.5
+105 Rakib Hasan rakib@gmail.com CSE101 76.0
+106 Nayeem Islam nayeem@yahoo.com CSE101 92.3
+107 Tania Akter tania@gmail.com CSE101 67.5
+108 Arif Hossain arif@gmail.com CSE101 49.0
+
